@@ -1,0 +1,7 @@
+# Codigo heredado del original (2021): se vigilan errores y warnings, no el estilo.
+analyzer:
+  exclude:
+    - example/**
+    - build/**
+    - android/**
+    - ios/**
